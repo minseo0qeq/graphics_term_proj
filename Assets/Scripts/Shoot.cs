@@ -6,7 +6,7 @@ using UnityEngine;
 public class Shoot : MonoBehaviour
 {
 
-    [SerializeField] private float bulletSpeed = 5f;
+    [SerializeField] private float bulletSpeed = 30f;
     [SerializeField] private Vector3 localScale = new Vector3(0.2f, 0.2f, 0.2f);
     [SerializeField] private float forceAmount = 100f;
     [SerializeField] private Transform gunFirePos;
