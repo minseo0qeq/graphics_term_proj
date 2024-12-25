@@ -80,6 +80,7 @@ public class Bullet : MonoBehaviour
 
             if(hitObjectRb == null){
                 Debug.LogError("No RigidBody on Target");
+                hitObjectRb = hitObject.AddComponent<Rigidbody>();
                 return;
             }
 
