@@ -32,7 +32,6 @@ public class SimpleRunnerAI : MonoBehaviour
 
         if (isHitByBullet)
         {
-            rb.velocity = Vector3.zero; 
             rb.useGravity = true;
             potatoColor.material.color = Color.gray;
             return;
