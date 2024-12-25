@@ -8,7 +8,7 @@ public class Shoot : MonoBehaviour
 
     [SerializeField] private float bulletSpeed = 30f;
     [SerializeField] private Vector3 localScale = new Vector3(0.2f, 0.2f, 0.2f);
-    [SerializeField] private float forceAmount = 100f;
+    [SerializeField] private float forceAmount = 1000f;
     [SerializeField] private Transform gunFirePos;
 
     // Start is called before the first frame update
@@ -21,7 +21,7 @@ public class Shoot : MonoBehaviour
     {
         if(Input.GetKeyDown(KeyCode.Space)){
             SpawnBullet();
-            GetComponent<AudioSource>().Play();
+            gameObject.GetComponent<AudioSource>().Play();
         }
     }
 
@@ -93,7 +93,7 @@ public class Bullet : MonoBehaviour
             hitObjectRb.AddForce(direction * forceAmount);
 
             ScoreManager.Instance.AddScore();
-            hitObject.tag = "None";
+            hitObject.tag = "Untagged";
             Destroy(gameObject);
         }
         else if (hitObject.layer == LayerMask.NameToLayer("Wall"))
