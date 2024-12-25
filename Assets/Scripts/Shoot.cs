@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using BigRookGames.Weapons;
 using UnityEngine;
 
 public class Shoot : MonoBehaviour
@@ -8,6 +9,7 @@ public class Shoot : MonoBehaviour
     [SerializeField] private float bulletSpeed = 5f;
     [SerializeField] private Vector3 localScale = new Vector3(0.2f, 0.2f, 0.2f);
     [SerializeField] private float forceAmount = 100f;
+    [SerializeField] private Transform gunFirePos;
 
     // Start is called before the first frame update
     void Start()
@@ -27,7 +29,7 @@ public class Shoot : MonoBehaviour
     {
 
         GameObject bullet = GameObject.CreatePrimitive(PrimitiveType.Sphere);
-        bullet.transform.position = transform.position;
+        bullet.transform.position = gunFirePos.transform.position;
         bullet.transform.localScale = localScale;
         
         Bullet bulletScript = bullet.AddComponent<Bullet>(); 
@@ -88,9 +90,10 @@ public class Bullet : MonoBehaviour
             hitObjectRb.AddForce(direction * forceAmount);
 
             ScoreManager.Instance.AddScore();
-
-            Destroy(gameObject);
         }
+
+        Destroy(gameObject);
     }
+
 }
 
