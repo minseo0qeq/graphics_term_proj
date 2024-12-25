@@ -6,7 +6,7 @@ using UnityEngine;
 public class Shoot : MonoBehaviour
 {
 
-    [SerializeField] private float bulletSpeed = 5f;
+    [SerializeField] private float bulletSpeed = 30f;
     [SerializeField] private Vector3 localScale = new Vector3(0.2f, 0.2f, 0.2f);
     [SerializeField] private float forceAmount = 100f;
     [SerializeField] private Transform gunFirePos;
@@ -14,7 +14,6 @@ public class Shoot : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
     }
 
     // Update is called once per frame
@@ -22,6 +21,7 @@ public class Shoot : MonoBehaviour
     {
         if(Input.GetKeyDown(KeyCode.Space)){
             SpawnBullet();
+            GetComponent<AudioSource>().Play();
         }
     }
 
