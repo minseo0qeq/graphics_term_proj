@@ -7,7 +7,7 @@ using UnityEngine.SceneManagement;
 
 public class ScoreManager : MonoBehaviour
 {
-    private int score = 0;
+    public int score = 0;
     public TMP_Text timerText;
     private float time;
     private int min;
@@ -91,4 +91,5 @@ public class ScoreManager : MonoBehaviour
             }
         }
     }
+
 }
