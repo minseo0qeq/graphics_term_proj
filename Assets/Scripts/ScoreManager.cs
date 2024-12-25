@@ -63,7 +63,17 @@ public class ScoreManager : MonoBehaviour
                 isTimeOver = true;
                 timerText.text = 0.ToString() + " : " + 0.ToString();
                 Debug.Log("time out");
-                SceneManager.LoadScene("End1");
+                if (score < 10)
+                {
+                    SceneManager.LoadScene("End1");
+                }else if (score >= 10 && score <= 20)
+                {
+                    SceneManager.LoadScene("End2");
+                }
+                else
+                {
+                    SceneManager.LoadScene("End3");
+                }
             }
 
         }
