@@ -214,6 +214,10 @@ PrefabInstance:
       value: Ext_BA_01_Wall_01 (24)
       objectReference: {fileID: 0}
     - target: {fileID: 6526184997809920213, guid: aec71fa5d6ab24744bbfb3afb66de766, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 6526184997809920213, guid: aec71fa5d6ab24744bbfb3afb66de766, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -926,6 +930,10 @@ PrefabInstance:
       value: Ext_BA_01_Wall_01 (28)
       objectReference: {fileID: 0}
     - target: {fileID: 6526184997809920213, guid: aec71fa5d6ab24744bbfb3afb66de766, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 6526184997809920213, guid: aec71fa5d6ab24744bbfb3afb66de766, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -1243,6 +1251,10 @@ PrefabInstance:
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_Name
       value: Ext_BA_Roof_01 (22)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -1769,6 +1781,10 @@ PrefabInstance:
       value: Ext_BA_Roof_01 (56)
       objectReference: {fileID: 0}
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -1976,6 +1992,10 @@ PrefabInstance:
     - target: {fileID: 5372147492997415629, guid: dd6658866c1c65a4aa4a6c6e8e34e4f5, type: 3}
       propertyPath: m_Name
       value: Ext_BA_Roof_02 (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5372147492997415629, guid: dd6658866c1c65a4aa4a6c6e8e34e4f5, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 5372147492997415629, guid: dd6658866c1c65a4aa4a6c6e8e34e4f5, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -2248,6 +2268,10 @@ PrefabInstance:
       value: Ext_BA_Roof_01 (31)
       objectReference: {fileID: 0}
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -2321,6 +2345,10 @@ PrefabInstance:
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_Name
       value: Ext_BA_Roof_01 (52)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -2528,6 +2556,10 @@ PrefabInstance:
       value: Ext_BA_Roof_02 (10)
       objectReference: {fileID: 0}
     - target: {fileID: 5372147492997415629, guid: dd6658866c1c65a4aa4a6c6e8e34e4f5, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5372147492997415629, guid: dd6658866c1c65a4aa4a6c6e8e34e4f5, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -2689,12 +2721,24 @@ PrefabInstance:
       value: ExtInt_FFK_Wall_01_01 (1)
       objectReference: {fileID: 0}
     - target: {fileID: 6543535071423021370, guid: 8ac7ecdbda8cff84cac06dc1b9b33100, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 6543535071423021370, guid: 8ac7ecdbda8cff84cac06dc1b9b33100, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7995945529445367783, guid: 8ac7ecdbda8cff84cac06dc1b9b33100, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 7995945529445367783, guid: 8ac7ecdbda8cff84cac06dc1b9b33100, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 8949193170765504906, guid: 8ac7ecdbda8cff84cac06dc1b9b33100, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 8949193170765504906, guid: 8ac7ecdbda8cff84cac06dc1b9b33100, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -2716,6 +2760,10 @@ PrefabInstance:
     - target: {fileID: 5372147492997415629, guid: dd6658866c1c65a4aa4a6c6e8e34e4f5, type: 3}
       propertyPath: m_Name
       value: Ext_BA_Roof_02 (35)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5372147492997415629, guid: dd6658866c1c65a4aa4a6c6e8e34e4f5, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 5372147492997415629, guid: dd6658866c1c65a4aa4a6c6e8e34e4f5, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -3406,6 +3454,10 @@ PrefabInstance:
       value: Ext_BA_01_Wall_01 (31)
       objectReference: {fileID: 0}
     - target: {fileID: 6526184997809920213, guid: aec71fa5d6ab24744bbfb3afb66de766, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 6526184997809920213, guid: aec71fa5d6ab24744bbfb3afb66de766, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -3469,6 +3521,10 @@ PrefabInstance:
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_Name
       value: Ext_BA_Roof_01 (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -3688,6 +3744,10 @@ PrefabInstance:
       value: Ext_BA_Roof_01 (37)
       objectReference: {fileID: 0}
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -3891,6 +3951,10 @@ PrefabInstance:
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_Name
       value: Ext_BA_Roof_01 (32)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -4321,6 +4385,10 @@ PrefabInstance:
       value: Ext_BA_Roof_01 (59)
       objectReference: {fileID: 0}
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -4384,6 +4452,10 @@ PrefabInstance:
     - target: {fileID: 3585262133441642926, guid: 94c14dfc6c607a44486aa4e3dbc3f125, type: 3}
       propertyPath: m_Name
       value: Ext_BA_01_Pillar_4x4 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3585262133441642926, guid: 94c14dfc6c607a44486aa4e3dbc3f125, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 3585262133441642926, guid: 94c14dfc6c607a44486aa4e3dbc3f125, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -4498,6 +4570,10 @@ PrefabInstance:
     - target: {fileID: 7389515619701088665, guid: 8c565f534ef70fc4bbe3ede8f7750d96, type: 3}
       propertyPath: m_Name
       value: Ext_BA_Roof_03 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7389515619701088665, guid: 8c565f534ef70fc4bbe3ede8f7750d96, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 7389515619701088665, guid: 8c565f534ef70fc4bbe3ede8f7750d96, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -4709,6 +4785,10 @@ PrefabInstance:
       value: Ext_BA_Roof_01 (42)
       objectReference: {fileID: 0}
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -4782,6 +4862,10 @@ PrefabInstance:
     - target: {fileID: 5372147492997415629, guid: dd6658866c1c65a4aa4a6c6e8e34e4f5, type: 3}
       propertyPath: m_Name
       value: Ext_BA_Roof_02 (28)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5372147492997415629, guid: dd6658866c1c65a4aa4a6c6e8e34e4f5, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 5372147492997415629, guid: dd6658866c1c65a4aa4a6c6e8e34e4f5, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -5199,6 +5283,10 @@ PrefabInstance:
       value: Ext_BA_Roof_02 (1)
       objectReference: {fileID: 0}
     - target: {fileID: 5372147492997415629, guid: dd6658866c1c65a4aa4a6c6e8e34e4f5, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5372147492997415629, guid: dd6658866c1c65a4aa4a6c6e8e34e4f5, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -5264,6 +5352,10 @@ PrefabInstance:
       value: Ext_BA_Roof_01 (72)
       objectReference: {fileID: 0}
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -5327,6 +5419,10 @@ PrefabInstance:
     - target: {fileID: 5372147492997415629, guid: dd6658866c1c65a4aa4a6c6e8e34e4f5, type: 3}
       propertyPath: m_Name
       value: Ext_BA_Roof_02 (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5372147492997415629, guid: dd6658866c1c65a4aa4a6c6e8e34e4f5, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 5372147492997415629, guid: dd6658866c1c65a4aa4a6c6e8e34e4f5, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -5706,6 +5802,10 @@ PrefabInstance:
     - target: {fileID: 3585262133441642926, guid: 94c14dfc6c607a44486aa4e3dbc3f125, type: 3}
       propertyPath: m_Name
       value: Ext_BA_01_Pillar_4x4
+      objectReference: {fileID: 0}
+    - target: {fileID: 3585262133441642926, guid: 94c14dfc6c607a44486aa4e3dbc3f125, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 3585262133441642926, guid: 94c14dfc6c607a44486aa4e3dbc3f125, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -6222,6 +6322,10 @@ PrefabInstance:
       value: Ext_BA_Roof_01 (6)
       objectReference: {fileID: 0}
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -6287,6 +6391,10 @@ PrefabInstance:
       value: Ext_BA_01_Wall_01 (10)
       objectReference: {fileID: 0}
     - target: {fileID: 6526184997809920213, guid: aec71fa5d6ab24744bbfb3afb66de766, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 6526184997809920213, guid: aec71fa5d6ab24744bbfb3afb66de766, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -6350,6 +6458,10 @@ PrefabInstance:
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_Name
       value: Ext_BA_Roof_01 (44)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -6927,6 +7039,10 @@ PrefabInstance:
       value: Ext_BA_Roof_01 (57)
       objectReference: {fileID: 0}
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -7237,6 +7353,10 @@ PrefabInstance:
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_Name
       value: Ext_BA_Roof_01 (63)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -7708,6 +7828,10 @@ PrefabInstance:
       value: Ext_BA_Roof_02 (32)
       objectReference: {fileID: 0}
     - target: {fileID: 5372147492997415629, guid: dd6658866c1c65a4aa4a6c6e8e34e4f5, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5372147492997415629, guid: dd6658866c1c65a4aa4a6c6e8e34e4f5, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -7930,6 +8054,10 @@ PrefabInstance:
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_Name
       value: Ext_BA_Roof_01 (27)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -8204,6 +8332,10 @@ PrefabInstance:
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_Name
       value: Ext_BA_Roof_01 (53)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -8667,6 +8799,10 @@ PrefabInstance:
       value: Ext_BA_Roof_02 (21)
       objectReference: {fileID: 0}
     - target: {fileID: 5372147492997415629, guid: dd6658866c1c65a4aa4a6c6e8e34e4f5, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5372147492997415629, guid: dd6658866c1c65a4aa4a6c6e8e34e4f5, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -9066,6 +9202,10 @@ PrefabInstance:
       value: Ext_BA_Roof_01 (68)
       objectReference: {fileID: 0}
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -9219,6 +9359,10 @@ PrefabInstance:
       value: Ext_BA_Roof_02 (3)
       objectReference: {fileID: 0}
     - target: {fileID: 5372147492997415629, guid: dd6658866c1c65a4aa4a6c6e8e34e4f5, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5372147492997415629, guid: dd6658866c1c65a4aa4a6c6e8e34e4f5, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -9280,7 +9424,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 477910532}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Exterior
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9391,6 +9535,10 @@ PrefabInstance:
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_Name
       value: Ext_BA_Roof_01 (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -9702,6 +9850,10 @@ PrefabInstance:
       value: Ext_BA_Roof_02 (22)
       objectReference: {fileID: 0}
     - target: {fileID: 5372147492997415629, guid: dd6658866c1c65a4aa4a6c6e8e34e4f5, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5372147492997415629, guid: dd6658866c1c65a4aa4a6c6e8e34e4f5, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -9763,12 +9915,24 @@ PrefabInstance:
     m_TransformParent: {fileID: 1685948707}
     m_Modifications:
     - target: {fileID: 277305262645042921, guid: a1c30a26aa98a394b83668e45d9044be, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 277305262645042921, guid: a1c30a26aa98a394b83668e45d9044be, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4175188035045866986, guid: a1c30a26aa98a394b83668e45d9044be, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4175188035045866986, guid: a1c30a26aa98a394b83668e45d9044be, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4597225503802726405, guid: a1c30a26aa98a394b83668e45d9044be, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 4597225503802726405, guid: a1c30a26aa98a394b83668e45d9044be, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -9779,6 +9943,10 @@ PrefabInstance:
       value: ExtInt_FFK_Entrance_01_01
       objectReference: {fileID: 0}
     - target: {fileID: 4978190630647106660, guid: a1c30a26aa98a394b83668e45d9044be, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4978190630647106660, guid: a1c30a26aa98a394b83668e45d9044be, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -9787,8 +9955,16 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 1371460579}
     - target: {fileID: 6262875553619330147, guid: a1c30a26aa98a394b83668e45d9044be, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 6262875553619330147, guid: a1c30a26aa98a394b83668e45d9044be, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 7547075320898990569, guid: a1c30a26aa98a394b83668e45d9044be, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 7547075320898990569, guid: a1c30a26aa98a394b83668e45d9044be, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -9859,6 +10035,10 @@ PrefabInstance:
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_Name
       value: Ext_BA_Roof_01 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -10275,7 +10455,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 515988888}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Roof
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10840,6 +11020,10 @@ PrefabInstance:
     m_TransformParent: {fileID: 1685948707}
     m_Modifications:
     - target: {fileID: 1132010160418589290, guid: 57e11b61f7f21a44ab797b7d95ea1b37, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 1132010160418589290, guid: 57e11b61f7f21a44ab797b7d95ea1b37, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -10888,12 +11072,20 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6058546963859064214, guid: 57e11b61f7f21a44ab797b7d95ea1b37, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 6058546963859064214, guid: 57e11b61f7f21a44ab797b7d95ea1b37, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 9067382405129887631, guid: 57e11b61f7f21a44ab797b7d95ea1b37, type: 3}
       propertyPath: m_Name
       value: ExtInt_FFK_Wall_03_01 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9067382405129887631, guid: 57e11b61f7f21a44ab797b7d95ea1b37, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 9067382405129887631, guid: 57e11b61f7f21a44ab797b7d95ea1b37, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -10920,6 +11112,10 @@ PrefabInstance:
     - target: {fileID: 5372147492997415629, guid: dd6658866c1c65a4aa4a6c6e8e34e4f5, type: 3}
       propertyPath: m_Name
       value: Ext_BA_Roof_02 (23)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5372147492997415629, guid: dd6658866c1c65a4aa4a6c6e8e34e4f5, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 5372147492997415629, guid: dd6658866c1c65a4aa4a6c6e8e34e4f5, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -11050,6 +11246,10 @@ PrefabInstance:
     - target: {fileID: 5372147492997415629, guid: dd6658866c1c65a4aa4a6c6e8e34e4f5, type: 3}
       propertyPath: m_Name
       value: Ext_BA_Roof_02 (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5372147492997415629, guid: dd6658866c1c65a4aa4a6c6e8e34e4f5, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 5372147492997415629, guid: dd6658866c1c65a4aa4a6c6e8e34e4f5, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -11224,6 +11424,10 @@ PrefabInstance:
     - target: {fileID: 7389515619701088665, guid: 8c565f534ef70fc4bbe3ede8f7750d96, type: 3}
       propertyPath: m_Name
       value: Ext_BA_Roof_03 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7389515619701088665, guid: 8c565f534ef70fc4bbe3ede8f7750d96, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 7389515619701088665, guid: 8c565f534ef70fc4bbe3ede8f7750d96, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -11919,6 +12123,10 @@ PrefabInstance:
       value: Ext_BA_01_Wall_01 (25)
       objectReference: {fileID: 0}
     - target: {fileID: 6526184997809920213, guid: aec71fa5d6ab24744bbfb3afb66de766, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 6526184997809920213, guid: aec71fa5d6ab24744bbfb3afb66de766, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -11987,6 +12195,10 @@ PrefabInstance:
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_Name
       value: Ext_BA_Roof_01 (47)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -12281,6 +12493,10 @@ PrefabInstance:
     - target: {fileID: 5372147492997415629, guid: dd6658866c1c65a4aa4a6c6e8e34e4f5, type: 3}
       propertyPath: m_Name
       value: Ext_BA_Roof_02 (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5372147492997415629, guid: dd6658866c1c65a4aa4a6c6e8e34e4f5, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 5372147492997415629, guid: dd6658866c1c65a4aa4a6c6e8e34e4f5, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -12605,12 +12821,24 @@ PrefabInstance:
       value: ExtInt_FFK_Wall_01_01
       objectReference: {fileID: 0}
     - target: {fileID: 6543535071423021370, guid: 8ac7ecdbda8cff84cac06dc1b9b33100, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 6543535071423021370, guid: 8ac7ecdbda8cff84cac06dc1b9b33100, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7995945529445367783, guid: 8ac7ecdbda8cff84cac06dc1b9b33100, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 7995945529445367783, guid: 8ac7ecdbda8cff84cac06dc1b9b33100, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 8949193170765504906, guid: 8ac7ecdbda8cff84cac06dc1b9b33100, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 8949193170765504906, guid: 8ac7ecdbda8cff84cac06dc1b9b33100, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -12711,6 +12939,10 @@ PrefabInstance:
     - target: {fileID: 6526184997809920213, guid: aec71fa5d6ab24744bbfb3afb66de766, type: 3}
       propertyPath: m_Name
       value: Ext_BA_01_Wall_01 (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6526184997809920213, guid: aec71fa5d6ab24744bbfb3afb66de766, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 6526184997809920213, guid: aec71fa5d6ab24744bbfb3afb66de766, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -12871,6 +13103,10 @@ PrefabInstance:
     - target: {fileID: 5372147492997415629, guid: dd6658866c1c65a4aa4a6c6e8e34e4f5, type: 3}
       propertyPath: m_Name
       value: Ext_BA_Roof_02 (31)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5372147492997415629, guid: dd6658866c1c65a4aa4a6c6e8e34e4f5, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 5372147492997415629, guid: dd6658866c1c65a4aa4a6c6e8e34e4f5, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -13096,6 +13332,10 @@ PrefabInstance:
     - target: {fileID: 5372147492997415629, guid: dd6658866c1c65a4aa4a6c6e8e34e4f5, type: 3}
       propertyPath: m_Name
       value: Ext_BA_Roof_02 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5372147492997415629, guid: dd6658866c1c65a4aa4a6c6e8e34e4f5, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 5372147492997415629, guid: dd6658866c1c65a4aa4a6c6e8e34e4f5, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -13861,6 +14101,10 @@ PrefabInstance:
       value: Ext_BA_01_Wall_01 (6)
       objectReference: {fileID: 0}
     - target: {fileID: 6526184997809920213, guid: aec71fa5d6ab24744bbfb3afb66de766, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 6526184997809920213, guid: aec71fa5d6ab24744bbfb3afb66de766, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -14414,6 +14658,10 @@ PrefabInstance:
       value: Ext_BA_01_Wall_01 (12)
       objectReference: {fileID: 0}
     - target: {fileID: 6526184997809920213, guid: aec71fa5d6ab24744bbfb3afb66de766, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 6526184997809920213, guid: aec71fa5d6ab24744bbfb3afb66de766, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -14728,6 +14976,10 @@ PrefabInstance:
       value: Ext_BA_01_Pillar_4x4 (1)
       objectReference: {fileID: 0}
     - target: {fileID: 3585262133441642926, guid: 94c14dfc6c607a44486aa4e3dbc3f125, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 3585262133441642926, guid: 94c14dfc6c607a44486aa4e3dbc3f125, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -15005,6 +15257,10 @@ PrefabInstance:
       value: Ext_BA_Roof_01 (66)
       objectReference: {fileID: 0}
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -15148,6 +15404,10 @@ PrefabInstance:
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_Name
       value: Ext_BA_Roof_01 (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -15668,6 +15928,10 @@ PrefabInstance:
       value: Ext_BA_Roof_01 (74)
       objectReference: {fileID: 0}
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -15885,6 +16149,10 @@ PrefabInstance:
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_Name
       value: Ext_BA_Roof_01 (26)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -16374,6 +16642,10 @@ PrefabInstance:
       value: Ext_BA_01_Wall_01 (17)
       objectReference: {fileID: 0}
     - target: {fileID: 6526184997809920213, guid: aec71fa5d6ab24744bbfb3afb66de766, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 6526184997809920213, guid: aec71fa5d6ab24744bbfb3afb66de766, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -16590,6 +16862,10 @@ PrefabInstance:
     - target: {fileID: 6526184997809920213, guid: aec71fa5d6ab24744bbfb3afb66de766, type: 3}
       propertyPath: m_Name
       value: Ext_BA_01_Wall_01 (19)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6526184997809920213, guid: aec71fa5d6ab24744bbfb3afb66de766, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 6526184997809920213, guid: aec71fa5d6ab24744bbfb3afb66de766, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -17121,6 +17397,10 @@ PrefabInstance:
       value: Ext_BA_Roof_01 (17)
       objectReference: {fileID: 0}
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -17479,6 +17759,10 @@ PrefabInstance:
       value: Ext_BA_Roof_02 (33)
       objectReference: {fileID: 0}
     - target: {fileID: 5372147492997415629, guid: dd6658866c1c65a4aa4a6c6e8e34e4f5, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5372147492997415629, guid: dd6658866c1c65a4aa4a6c6e8e34e4f5, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -17705,6 +17989,10 @@ PrefabInstance:
       value: Ext_BA_01_Wall_01 (15)
       objectReference: {fileID: 0}
     - target: {fileID: 6526184997809920213, guid: aec71fa5d6ab24744bbfb3afb66de766, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 6526184997809920213, guid: aec71fa5d6ab24744bbfb3afb66de766, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -17780,6 +18068,10 @@ PrefabInstance:
       value: Ext_BA_Roof_01 (36)
       objectReference: {fileID: 0}
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -17843,6 +18135,10 @@ PrefabInstance:
     - target: {fileID: 5372147492997415629, guid: dd6658866c1c65a4aa4a6c6e8e34e4f5, type: 3}
       propertyPath: m_Name
       value: Ext_BA_Roof_02 (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5372147492997415629, guid: dd6658866c1c65a4aa4a6c6e8e34e4f5, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 5372147492997415629, guid: dd6658866c1c65a4aa4a6c6e8e34e4f5, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -17978,6 +18274,10 @@ PrefabInstance:
     - target: {fileID: 6526184997809920213, guid: aec71fa5d6ab24744bbfb3afb66de766, type: 3}
       propertyPath: m_Name
       value: Ext_BA_01_Wall_01 (27)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6526184997809920213, guid: aec71fa5d6ab24744bbfb3afb66de766, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 6526184997809920213, guid: aec71fa5d6ab24744bbfb3afb66de766, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -18137,6 +18437,10 @@ PrefabInstance:
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_Name
       value: Ext_BA_Roof_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -18660,6 +18964,10 @@ PrefabInstance:
     - target: {fileID: 7389515619701088665, guid: 8c565f534ef70fc4bbe3ede8f7750d96, type: 3}
       propertyPath: m_Name
       value: Ext_BA_Roof_03 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7389515619701088665, guid: 8c565f534ef70fc4bbe3ede8f7750d96, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 7389515619701088665, guid: 8c565f534ef70fc4bbe3ede8f7750d96, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -19659,6 +19967,10 @@ PrefabInstance:
       value: Ext_BA_Roof_01 (33)
       objectReference: {fileID: 0}
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -19722,6 +20034,10 @@ PrefabInstance:
     - target: {fileID: 5372147492997415629, guid: dd6658866c1c65a4aa4a6c6e8e34e4f5, type: 3}
       propertyPath: m_Name
       value: Ext_BA_Roof_02 (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5372147492997415629, guid: dd6658866c1c65a4aa4a6c6e8e34e4f5, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 5372147492997415629, guid: dd6658866c1c65a4aa4a6c6e8e34e4f5, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -20271,6 +20587,10 @@ PrefabInstance:
       value: Ext_BA_Roof_01 (69)
       objectReference: {fileID: 0}
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -20416,8 +20736,16 @@ PrefabInstance:
       value: ExtInt_FFK_Wall_02_01 (2)
       objectReference: {fileID: 0}
     - target: {fileID: 667370060870753566, guid: 1a7ee6b8409d984478bcc1746266691b, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 667370060870753566, guid: 1a7ee6b8409d984478bcc1746266691b, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 2678032642667065740, guid: 1a7ee6b8409d984478bcc1746266691b, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 2678032642667065740, guid: 1a7ee6b8409d984478bcc1746266691b, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -20466,6 +20794,10 @@ PrefabInstance:
     - target: {fileID: 5322349442979019853, guid: 1a7ee6b8409d984478bcc1746266691b, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8859879828314376207, guid: 1a7ee6b8409d984478bcc1746266691b, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 8859879828314376207, guid: 1a7ee6b8409d984478bcc1746266691b, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -20993,6 +21325,10 @@ PrefabInstance:
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_Name
       value: Ext_BA_Roof_01 (21)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -21971,6 +22307,10 @@ PrefabInstance:
       value: Ext_BA_Roof_01 (43)
       objectReference: {fileID: 0}
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -22059,6 +22399,10 @@ PrefabInstance:
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_Name
       value: Ext_BA_Roof_01 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -22546,6 +22890,10 @@ PrefabInstance:
       value: Ext_BA_Roof_01 (16)
       objectReference: {fileID: 0}
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -22830,6 +23178,10 @@ PrefabInstance:
       value: Ext_BA_Roof_02 (8)
       objectReference: {fileID: 0}
     - target: {fileID: 5372147492997415629, guid: dd6658866c1c65a4aa4a6c6e8e34e4f5, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5372147492997415629, guid: dd6658866c1c65a4aa4a6c6e8e34e4f5, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -22918,6 +23270,10 @@ PrefabInstance:
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_Name
       value: Ext_BA_Roof_01 (78)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -23062,6 +23418,10 @@ PrefabInstance:
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_Name
       value: Ext_BA_Roof_01 (60)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -23278,6 +23638,10 @@ PrefabInstance:
       value: Ext_BA_Roof_02 (4)
       objectReference: {fileID: 0}
     - target: {fileID: 5372147492997415629, guid: dd6658866c1c65a4aa4a6c6e8e34e4f5, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5372147492997415629, guid: dd6658866c1c65a4aa4a6c6e8e34e4f5, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -23356,6 +23720,10 @@ PrefabInstance:
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_Name
       value: Ext_BA_Roof_01 (55)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -23441,6 +23809,10 @@ PrefabInstance:
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_Name
       value: Ext_BA_Roof_01 (51)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -24223,6 +24595,10 @@ PrefabInstance:
       value: Ext_BA_Roof_01 (34)
       objectReference: {fileID: 0}
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -24364,6 +24740,10 @@ PrefabInstance:
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_Name
       value: Ext_BA_Roof_01 (30)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -24867,6 +25247,10 @@ PrefabInstance:
       value: Ext_BA_Roof_01 (77)
       objectReference: {fileID: 0}
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -25005,6 +25389,10 @@ PrefabInstance:
     - target: {fileID: 5372147492997415629, guid: dd6658866c1c65a4aa4a6c6e8e34e4f5, type: 3}
       propertyPath: m_Name
       value: Ext_BA_Roof_02
+      objectReference: {fileID: 0}
+    - target: {fileID: 5372147492997415629, guid: dd6658866c1c65a4aa4a6c6e8e34e4f5, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 5372147492997415629, guid: dd6658866c1c65a4aa4a6c6e8e34e4f5, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -25150,6 +25538,10 @@ PrefabInstance:
     - target: {fileID: 6526184997809920213, guid: aec71fa5d6ab24744bbfb3afb66de766, type: 3}
       propertyPath: m_Name
       value: Ext_BA_01_Wall_01 (21)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6526184997809920213, guid: aec71fa5d6ab24744bbfb3afb66de766, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 6526184997809920213, guid: aec71fa5d6ab24744bbfb3afb66de766, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -25542,6 +25934,10 @@ PrefabInstance:
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_Name
       value: Ext_BA_Roof_01 (38)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -26329,6 +26725,10 @@ PrefabInstance:
       value: Ext_BA_Roof_02 (29)
       objectReference: {fileID: 0}
     - target: {fileID: 5372147492997415629, guid: dd6658866c1c65a4aa4a6c6e8e34e4f5, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5372147492997415629, guid: dd6658866c1c65a4aa4a6c6e8e34e4f5, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -26569,6 +26969,10 @@ PrefabInstance:
     - target: {fileID: 6526184997809920213, guid: aec71fa5d6ab24744bbfb3afb66de766, type: 3}
       propertyPath: m_Name
       value: Ext_BA_01_Wall_01 (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6526184997809920213, guid: aec71fa5d6ab24744bbfb3afb66de766, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 6526184997809920213, guid: aec71fa5d6ab24744bbfb3afb66de766, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -26859,6 +27263,10 @@ PrefabInstance:
       value: Ext_BA_Roof_01 (67)
       objectReference: {fileID: 0}
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -26929,6 +27337,10 @@ PrefabInstance:
       value: Ext_BA_01_Wall_01 (23)
       objectReference: {fileID: 0}
     - target: {fileID: 6526184997809920213, guid: aec71fa5d6ab24744bbfb3afb66de766, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 6526184997809920213, guid: aec71fa5d6ab24744bbfb3afb66de766, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -26992,6 +27404,10 @@ PrefabInstance:
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_Name
       value: Ext_BA_Roof_01 (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -27518,6 +27934,10 @@ PrefabInstance:
       value: Ext_BA_01_Wall_01 (11)
       objectReference: {fileID: 0}
     - target: {fileID: 6526184997809920213, guid: aec71fa5d6ab24744bbfb3afb66de766, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 6526184997809920213, guid: aec71fa5d6ab24744bbfb3afb66de766, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -27661,6 +28081,10 @@ PrefabInstance:
     - target: {fileID: 6526184997809920213, guid: aec71fa5d6ab24744bbfb3afb66de766, type: 3}
       propertyPath: m_Name
       value: Ext_BA_01_Wall_01 (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6526184997809920213, guid: aec71fa5d6ab24744bbfb3afb66de766, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 6526184997809920213, guid: aec71fa5d6ab24744bbfb3afb66de766, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -27811,6 +28235,10 @@ PrefabInstance:
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_Name
       value: Ext_BA_Roof_01 (46)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -28028,6 +28456,10 @@ PrefabInstance:
       value: Ext_BA_Roof_01 (65)
       objectReference: {fileID: 0}
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -28096,6 +28528,10 @@ PrefabInstance:
     - target: {fileID: 5372147492997415629, guid: dd6658866c1c65a4aa4a6c6e8e34e4f5, type: 3}
       propertyPath: m_Name
       value: Ext_BA_Roof_02 (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5372147492997415629, guid: dd6658866c1c65a4aa4a6c6e8e34e4f5, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 5372147492997415629, guid: dd6658866c1c65a4aa4a6c6e8e34e4f5, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -28378,6 +28814,10 @@ PrefabInstance:
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_Name
       value: Ext_BA_Roof_01 (70)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -28791,6 +29231,10 @@ PrefabInstance:
       value: Ext_BA_Roof_01 (41)
       objectReference: {fileID: 0}
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -29013,6 +29457,10 @@ PrefabInstance:
       value: Ext_BA_Roof_01 (75)
       objectReference: {fileID: 0}
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -29081,6 +29529,10 @@ PrefabInstance:
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_Name
       value: Ext_BA_Roof_01 (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -29445,6 +29897,10 @@ PrefabInstance:
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_Name
       value: Ext_BA_Roof_01 (79)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -29838,6 +30294,10 @@ PrefabInstance:
       value: Ext_BA_Roof_01 (48)
       objectReference: {fileID: 0}
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -29901,6 +30361,10 @@ PrefabInstance:
     - target: {fileID: 5372147492997415629, guid: dd6658866c1c65a4aa4a6c6e8e34e4f5, type: 3}
       propertyPath: m_Name
       value: Ext_BA_Roof_02 (27)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5372147492997415629, guid: dd6658866c1c65a4aa4a6c6e8e34e4f5, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 5372147492997415629, guid: dd6658866c1c65a4aa4a6c6e8e34e4f5, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -30341,12 +30805,24 @@ PrefabInstance:
       value: ExtInt_FFK_Wall_01_01 (2)
       objectReference: {fileID: 0}
     - target: {fileID: 6543535071423021370, guid: 8ac7ecdbda8cff84cac06dc1b9b33100, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 6543535071423021370, guid: 8ac7ecdbda8cff84cac06dc1b9b33100, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7995945529445367783, guid: 8ac7ecdbda8cff84cac06dc1b9b33100, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 7995945529445367783, guid: 8ac7ecdbda8cff84cac06dc1b9b33100, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 8949193170765504906, guid: 8ac7ecdbda8cff84cac06dc1b9b33100, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 8949193170765504906, guid: 8ac7ecdbda8cff84cac06dc1b9b33100, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -30520,6 +30996,10 @@ PrefabInstance:
       value: Ext_BA_Roof_01 (54)
       objectReference: {fileID: 0}
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -30655,6 +31135,10 @@ PrefabInstance:
       value: Ext_BA_Roof_02 (34)
       objectReference: {fileID: 0}
     - target: {fileID: 5372147492997415629, guid: dd6658866c1c65a4aa4a6c6e8e34e4f5, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5372147492997415629, guid: dd6658866c1c65a4aa4a6c6e8e34e4f5, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -30723,6 +31207,10 @@ PrefabInstance:
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_Name
       value: Ext_BA_Roof_01 (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -30853,6 +31341,10 @@ PrefabInstance:
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_Name
       value: Ext_BA_Roof_01 (35)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -31054,6 +31546,10 @@ PrefabInstance:
       value: Ext_BA_Roof_01 (45)
       objectReference: {fileID: 0}
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -31197,6 +31693,10 @@ PrefabInstance:
     m_TransformParent: {fileID: 1685948707}
     m_Modifications:
     - target: {fileID: 1132010160418589290, guid: 57e11b61f7f21a44ab797b7d95ea1b37, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 1132010160418589290, guid: 57e11b61f7f21a44ab797b7d95ea1b37, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -31245,12 +31745,20 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6058546963859064214, guid: 57e11b61f7f21a44ab797b7d95ea1b37, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 6058546963859064214, guid: 57e11b61f7f21a44ab797b7d95ea1b37, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 9067382405129887631, guid: 57e11b61f7f21a44ab797b7d95ea1b37, type: 3}
       propertyPath: m_Name
       value: ExtInt_FFK_Wall_03_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 9067382405129887631, guid: 57e11b61f7f21a44ab797b7d95ea1b37, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 9067382405129887631, guid: 57e11b61f7f21a44ab797b7d95ea1b37, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -31532,6 +32040,10 @@ PrefabInstance:
       value: Ext_BA_Roof_01 (13)
       objectReference: {fileID: 0}
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -31748,6 +32260,10 @@ PrefabInstance:
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_Name
       value: Ext_BA_Roof_01 (76)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -32070,6 +32586,10 @@ PrefabInstance:
       value: Ext_BA_Roof_01 (9)
       objectReference: {fileID: 0}
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -32208,6 +32728,10 @@ PrefabInstance:
     - target: {fileID: 3585262133441642926, guid: 94c14dfc6c607a44486aa4e3dbc3f125, type: 3}
       propertyPath: m_Name
       value: Ext_BA_01_Pillar_4x4 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3585262133441642926, guid: 94c14dfc6c607a44486aa4e3dbc3f125, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 3585262133441642926, guid: 94c14dfc6c607a44486aa4e3dbc3f125, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -32355,6 +32879,10 @@ PrefabInstance:
       value: Ext_BA_01_Wall_01 (29)
       objectReference: {fileID: 0}
     - target: {fileID: 6526184997809920213, guid: aec71fa5d6ab24744bbfb3afb66de766, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 6526184997809920213, guid: aec71fa5d6ab24744bbfb3afb66de766, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -32418,6 +32946,10 @@ PrefabInstance:
     - target: {fileID: 6526184997809920213, guid: aec71fa5d6ab24744bbfb3afb66de766, type: 3}
       propertyPath: m_Name
       value: Ext_BA_01_Wall_01 (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6526184997809920213, guid: aec71fa5d6ab24744bbfb3afb66de766, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 6526184997809920213, guid: aec71fa5d6ab24744bbfb3afb66de766, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -32562,6 +33094,10 @@ PrefabInstance:
       value: Ext_BA_Roof_02 (12)
       objectReference: {fileID: 0}
     - target: {fileID: 5372147492997415629, guid: dd6658866c1c65a4aa4a6c6e8e34e4f5, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5372147492997415629, guid: dd6658866c1c65a4aa4a6c6e8e34e4f5, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -32625,6 +33161,10 @@ PrefabInstance:
     - target: {fileID: 5372147492997415629, guid: dd6658866c1c65a4aa4a6c6e8e34e4f5, type: 3}
       propertyPath: m_Name
       value: Ext_BA_Roof_02 (24)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5372147492997415629, guid: dd6658866c1c65a4aa4a6c6e8e34e4f5, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 5372147492997415629, guid: dd6658866c1c65a4aa4a6c6e8e34e4f5, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -32837,6 +33377,10 @@ PrefabInstance:
       value: Ext_BA_Roof_01 (58)
       objectReference: {fileID: 0}
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -32992,6 +33536,10 @@ PrefabInstance:
       value: Ext_BA_Roof_01 (62)
       objectReference: {fileID: 0}
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -33055,6 +33603,10 @@ PrefabInstance:
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_Name
       value: Ext_BA_Roof_01 (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -33475,6 +34027,10 @@ PrefabInstance:
     - target: {fileID: 6526184997809920213, guid: aec71fa5d6ab24744bbfb3afb66de766, type: 3}
       propertyPath: m_Name
       value: Ext_BA_01_Wall_01 (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6526184997809920213, guid: aec71fa5d6ab24744bbfb3afb66de766, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 6526184997809920213, guid: aec71fa5d6ab24744bbfb3afb66de766, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -34341,6 +34897,10 @@ PrefabInstance:
       value: Ext_BA_Roof_02 (17)
       objectReference: {fileID: 0}
     - target: {fileID: 5372147492997415629, guid: dd6658866c1c65a4aa4a6c6e8e34e4f5, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5372147492997415629, guid: dd6658866c1c65a4aa4a6c6e8e34e4f5, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -34430,6 +34990,10 @@ PrefabInstance:
     - target: {fileID: 6526184997809920213, guid: aec71fa5d6ab24744bbfb3afb66de766, type: 3}
       propertyPath: m_Name
       value: Ext_BA_01_Wall_01 (26)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6526184997809920213, guid: aec71fa5d6ab24744bbfb3afb66de766, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 6526184997809920213, guid: aec71fa5d6ab24744bbfb3afb66de766, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -35284,6 +35848,10 @@ PrefabInstance:
       value: Ext_BA_Roof_01 (40)
       objectReference: {fileID: 0}
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -35846,6 +36414,10 @@ PrefabInstance:
       value: Ext_BA_Roof_02 (6)
       objectReference: {fileID: 0}
     - target: {fileID: 5372147492997415629, guid: dd6658866c1c65a4aa4a6c6e8e34e4f5, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5372147492997415629, guid: dd6658866c1c65a4aa4a6c6e8e34e4f5, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -35914,6 +36486,10 @@ PrefabInstance:
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_Name
       value: Ext_BA_Roof_01 (19)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -36050,6 +36626,10 @@ PrefabInstance:
       value: Ext_BA_01_Wall_01 (20)
       objectReference: {fileID: 0}
     - target: {fileID: 6526184997809920213, guid: aec71fa5d6ab24744bbfb3afb66de766, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 6526184997809920213, guid: aec71fa5d6ab24744bbfb3afb66de766, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -36113,6 +36693,10 @@ PrefabInstance:
     - target: {fileID: 5372147492997415629, guid: dd6658866c1c65a4aa4a6c6e8e34e4f5, type: 3}
       propertyPath: m_Name
       value: Ext_BA_Roof_02 (19)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5372147492997415629, guid: dd6658866c1c65a4aa4a6c6e8e34e4f5, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 5372147492997415629, guid: dd6658866c1c65a4aa4a6c6e8e34e4f5, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -36518,6 +37102,10 @@ PrefabInstance:
       value: Ext_BA_Roof_02 (25)
       objectReference: {fileID: 0}
     - target: {fileID: 5372147492997415629, guid: dd6658866c1c65a4aa4a6c6e8e34e4f5, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5372147492997415629, guid: dd6658866c1c65a4aa4a6c6e8e34e4f5, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -36763,6 +37351,10 @@ PrefabInstance:
       value: Ext_BA_Roof_01 (64)
       objectReference: {fileID: 0}
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -36927,7 +37519,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1685948707}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Exterior Into Interior
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -37050,6 +37642,10 @@ PrefabInstance:
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_Name
       value: Ext_BA_Roof_01 (73)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -37418,6 +38014,10 @@ PrefabInstance:
     - target: {fileID: 6526184997809920213, guid: aec71fa5d6ab24744bbfb3afb66de766, type: 3}
       propertyPath: m_Name
       value: Ext_BA_01_Wall_01 (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6526184997809920213, guid: aec71fa5d6ab24744bbfb3afb66de766, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 6526184997809920213, guid: aec71fa5d6ab24744bbfb3afb66de766, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -38678,6 +39278,10 @@ PrefabInstance:
       value: Ext_BA_Roof_03
       objectReference: {fileID: 0}
     - target: {fileID: 7389515619701088665, guid: 8c565f534ef70fc4bbe3ede8f7750d96, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 7389515619701088665, guid: 8c565f534ef70fc4bbe3ede8f7750d96, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -38846,6 +39450,10 @@ PrefabInstance:
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_Name
       value: Ext_BA_Roof_01 (28)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -39058,6 +39666,10 @@ PrefabInstance:
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_Name
       value: Ext_BA_Roof_01 (23)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -39810,6 +40422,10 @@ PrefabInstance:
       value: Ext_BA_Roof_01 (24)
       objectReference: {fileID: 0}
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -40474,6 +41090,10 @@ PrefabInstance:
       value: Ext_BA_Roof_02 (20)
       objectReference: {fileID: 0}
     - target: {fileID: 5372147492997415629, guid: dd6658866c1c65a4aa4a6c6e8e34e4f5, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5372147492997415629, guid: dd6658866c1c65a4aa4a6c6e8e34e4f5, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -40877,6 +41497,10 @@ PrefabInstance:
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_Name
       value: Ext_BA_Roof_01 (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -41510,6 +42134,10 @@ PrefabInstance:
       value: Ext_BA_Roof_02 (26)
       objectReference: {fileID: 0}
     - target: {fileID: 5372147492997415629, guid: dd6658866c1c65a4aa4a6c6e8e34e4f5, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5372147492997415629, guid: dd6658866c1c65a4aa4a6c6e8e34e4f5, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -42138,6 +42766,10 @@ PrefabInstance:
       value: Ext_BA_Roof_01 (71)
       objectReference: {fileID: 0}
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -42199,7 +42831,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1932309641}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Walls
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -42263,8 +42895,16 @@ PrefabInstance:
       value: ExtInt_FFK_Wall_02_01 (1)
       objectReference: {fileID: 0}
     - target: {fileID: 667370060870753566, guid: 1a7ee6b8409d984478bcc1746266691b, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 667370060870753566, guid: 1a7ee6b8409d984478bcc1746266691b, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 2678032642667065740, guid: 1a7ee6b8409d984478bcc1746266691b, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 2678032642667065740, guid: 1a7ee6b8409d984478bcc1746266691b, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -42315,6 +42955,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8859879828314376207, guid: 1a7ee6b8409d984478bcc1746266691b, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 8859879828314376207, guid: 1a7ee6b8409d984478bcc1746266691b, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -42339,6 +42983,10 @@ PrefabInstance:
     - target: {fileID: 5372147492997415629, guid: dd6658866c1c65a4aa4a6c6e8e34e4f5, type: 3}
       propertyPath: m_Name
       value: Ext_BA_Roof_02 (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5372147492997415629, guid: dd6658866c1c65a4aa4a6c6e8e34e4f5, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 5372147492997415629, guid: dd6658866c1c65a4aa4a6c6e8e34e4f5, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -42508,6 +43156,10 @@ PrefabInstance:
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_Name
       value: Ext_BA_Roof_01 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -42854,6 +43506,10 @@ PrefabInstance:
       value: Ext_BA_Roof_02 (30)
       objectReference: {fileID: 0}
     - target: {fileID: 5372147492997415629, guid: dd6658866c1c65a4aa4a6c6e8e34e4f5, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5372147492997415629, guid: dd6658866c1c65a4aa4a6c6e8e34e4f5, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -43124,6 +43780,10 @@ PrefabInstance:
       value: Ext_BA_Roof_01 (2)
       objectReference: {fileID: 0}
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -43319,6 +43979,10 @@ PrefabInstance:
       value: Ext_BA_01_Wall_01 (8)
       objectReference: {fileID: 0}
     - target: {fileID: 6526184997809920213, guid: aec71fa5d6ab24744bbfb3afb66de766, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 6526184997809920213, guid: aec71fa5d6ab24744bbfb3afb66de766, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -43387,6 +44051,10 @@ PrefabInstance:
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_Name
       value: Ext_BA_Roof_01 (39)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -43621,6 +44289,10 @@ PrefabInstance:
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_Name
       value: Ext_BA_Roof_01 (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -43939,6 +44611,10 @@ PrefabInstance:
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_Name
       value: Ext_BA_Roof_01 (25)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -44398,6 +45074,10 @@ PrefabInstance:
       value: Ext_BA_Roof_01 (50)
       objectReference: {fileID: 0}
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -44560,6 +45240,10 @@ PrefabInstance:
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_Name
       value: Ext_BA_Roof_01 (29)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -44945,6 +45629,10 @@ PrefabInstance:
       value: Ext_BA_Roof_01 (3)
       objectReference: {fileID: 0}
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -45164,6 +45852,10 @@ PrefabInstance:
       value: Ext_BA_Roof_02 (5)
       objectReference: {fileID: 0}
     - target: {fileID: 5372147492997415629, guid: dd6658866c1c65a4aa4a6c6e8e34e4f5, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5372147492997415629, guid: dd6658866c1c65a4aa4a6c6e8e34e4f5, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -45316,8 +46008,16 @@ PrefabInstance:
       value: 0.0626443
       objectReference: {fileID: 0}
     - target: {fileID: 2584505178937097106, guid: 89ff244a58c1b4e40b2905013ad3b107, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2584505178937097106, guid: 89ff244a58c1b4e40b2905013ad3b107, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 4389288795065358111, guid: 89ff244a58c1b4e40b2905013ad3b107, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 4389288795065358111, guid: 89ff244a58c1b4e40b2905013ad3b107, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -45328,12 +46028,24 @@ PrefabInstance:
       value: ExtInt_FFK_Entrance_02_01
       objectReference: {fileID: 0}
     - target: {fileID: 4663692301048422426, guid: 89ff244a58c1b4e40b2905013ad3b107, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4663692301048422426, guid: 89ff244a58c1b4e40b2905013ad3b107, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 5849712312435417123, guid: 89ff244a58c1b4e40b2905013ad3b107, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5849712312435417123, guid: 89ff244a58c1b4e40b2905013ad3b107, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6645443780582506281, guid: 89ff244a58c1b4e40b2905013ad3b107, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 6645443780582506281, guid: 89ff244a58c1b4e40b2905013ad3b107, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -45382,6 +46094,10 @@ PrefabInstance:
     - target: {fileID: 6869049504215573709, guid: 89ff244a58c1b4e40b2905013ad3b107, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8839806666603719757, guid: 89ff244a58c1b4e40b2905013ad3b107, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 8839806666603719757, guid: 89ff244a58c1b4e40b2905013ad3b107, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -45483,6 +46199,10 @@ PrefabInstance:
       value: Ext_BA_Roof_01 (49)
       objectReference: {fileID: 0}
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -45551,6 +46271,10 @@ PrefabInstance:
     - target: {fileID: 6526184997809920213, guid: aec71fa5d6ab24744bbfb3afb66de766, type: 3}
       propertyPath: m_Name
       value: Ext_BA_01_Wall_01 (22)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6526184997809920213, guid: aec71fa5d6ab24744bbfb3afb66de766, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 6526184997809920213, guid: aec71fa5d6ab24744bbfb3afb66de766, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -45768,6 +46492,10 @@ PrefabInstance:
       value: Ext_BA_Roof_01 (61)
       objectReference: {fileID: 0}
     - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614627187404006003, guid: 75c16d4794f25e84ea8d82ee45dd1937, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -45848,8 +46576,16 @@ PrefabInstance:
       value: ExtInt_FFK_Wall_02_01
       objectReference: {fileID: 0}
     - target: {fileID: 667370060870753566, guid: 1a7ee6b8409d984478bcc1746266691b, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 667370060870753566, guid: 1a7ee6b8409d984478bcc1746266691b, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 2678032642667065740, guid: 1a7ee6b8409d984478bcc1746266691b, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 2678032642667065740, guid: 1a7ee6b8409d984478bcc1746266691b, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -45898,6 +46634,10 @@ PrefabInstance:
     - target: {fileID: 5322349442979019853, guid: 1a7ee6b8409d984478bcc1746266691b, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8859879828314376207, guid: 1a7ee6b8409d984478bcc1746266691b, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 8859879828314376207, guid: 1a7ee6b8409d984478bcc1746266691b, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -47108,6 +47848,10 @@ PrefabInstance:
     - target: {fileID: 2690148653922988374, guid: 3e68a847cfcd1e643a2285edcf75f83c, type: 3}
       propertyPath: m_Name
       value: FF_Sign_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 2690148653922988374, guid: 3e68a847cfcd1e643a2285edcf75f83c, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 2690148653922988374, guid: 3e68a847cfcd1e643a2285edcf75f83c, type: 3}
       propertyPath: m_StaticEditorFlags

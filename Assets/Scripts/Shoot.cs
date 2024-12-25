@@ -93,9 +93,12 @@ public class Bullet : MonoBehaviour
             hitObjectRb.AddForce(direction * forceAmount);
 
             ScoreManager.Instance.AddScore();
+            Destroy(gameObject);
         }
-
-        Destroy(gameObject);
+        else if (hitObject.layer == LayerMask.NameToLayer("Wall"))
+        {
+            Destroy(gameObject);
+        }
     }
 }
 
