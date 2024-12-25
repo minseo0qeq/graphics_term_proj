@@ -19,6 +19,6 @@ public class ScoreUI : MonoBehaviour
 
     private void UpdateScoreText(int newScore)
     {
-        scoreText.text = "x" + newScore;
+        scoreText.text = "X" + newScore;
     }
 }

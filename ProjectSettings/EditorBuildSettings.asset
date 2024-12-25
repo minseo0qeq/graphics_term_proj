@@ -12,9 +12,12 @@ EditorBuildSettings:
     path: Assets/Scene/Title.unity
     guid: 655294f8d4566d74fa80e340a0c57a63
   - enabled: 1
-    path: Assets/Scene/End.unity
-    guid: 55889d82ea6a24843b90a7f158e66f7e
-  - enabled: 1
     path: Assets/Brick Project Studio/Fast Food Restaurant Kit/Scene/FFK Sample Scene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scene/End2.unity
+    guid: 55889d82ea6a24843b90a7f158e66f7e
+  - enabled: 1
+    path: Assets/Scene/End1.unity
+    guid: 2b5c7af70c437a9418e93b55892e4cad
   m_configObjects: {}
