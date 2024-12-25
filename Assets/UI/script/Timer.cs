@@ -5,7 +5,7 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
-public class Tmier : MonoBehaviour
+public class Timer : MonoBehaviour
 {
     public TMP_Text timerText;
     private float time;

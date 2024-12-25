@@ -17,7 +17,7 @@ public class SimpleRunnerAI : MonoBehaviour
         rb = GetComponent<Rigidbody>();
         if (rb == null)
         {
-            Debug.LogError("Rigidbody°¡ ÀÌ ¿ÀºêÁ§Æ®¿¡ ¾ø½À´Ï´Ù.");
+            Debug.LogError("Rigidbodyï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ®ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ï´ï¿½.");
         }
 
         moveTimer = moveInterval;
@@ -70,8 +70,12 @@ public class SimpleRunnerAI : MonoBehaviour
         }
         else
         {
-            Debug.Log("NavMesh À§¿¡¼­ ¿òÁ÷ÀÏ ¼ö ¾ø½À´Ï´Ù.");
+            Debug.Log("NavMesh ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ï´ï¿½.");
         } 
+    }
+
+    public void SetIsHitByBullet(bool set){
+        isHitByBullet = set;
     }
 
     bool IsGrounded()
@@ -79,14 +83,4 @@ public class SimpleRunnerAI : MonoBehaviour
         return Physics.Raycast(transform.position, Vector3.down, 0.5f);
     }
 
-
-    void OnCollisionEnter(Collision collision)
-    {
-        if (collision.gameObject.GetComponent<Bullet>() != null)
-        {
-            isHitByBullet = true;
-            rb.velocity = Vector3.zero;
-            rb.useGravity = true;
-        }
-    }
 }

@@ -82,6 +82,7 @@ public class Bullet : MonoBehaviour
 
         if(hitObjectTag == "Target"){
             Rigidbody hitObjectRb = hitObject.GetComponent<Rigidbody>();
+            SimpleRunnerAI potatoMovement = hitObject.GetComponent<SimpleRunnerAI>();
 
             if(hitObjectRb == null){
                 Debug.LogError("No RigidBody on Target");
@@ -91,6 +92,7 @@ public class Bullet : MonoBehaviour
 
             hitObjectRb.useGravity = true;
             hitObjectRb.AddForce(direction * forceAmount);
+            potatoMovement.SetIsHitByBullet(true);            
 
             ScoreManager.Instance.AddScore();
             hitObject.tag = "Untagged";
