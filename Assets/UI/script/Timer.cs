@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.SocialPlatforms.Impl;
 using UnityEngine.UI;
 
 public class Timer : MonoBehaviour
@@ -35,10 +36,10 @@ public class Timer : MonoBehaviour
                 isTimeOver = true;
                 timerText.text = 0.ToString() + " : " + 0.ToString();
                 Debug.Log("time out");
-                if (ScoreManager.Instance.score < 10)
+                if (ScoreManager.Instance.getScore() < 10)
                 {
                     SceneManager.LoadScene("End1");
-                }else if(ScoreManager.Instance.score <= 20)
+                }else if(ScoreManager.Instance.getScore() <= 20)
                 {
                     SceneManager.LoadScene("End2");
                 }

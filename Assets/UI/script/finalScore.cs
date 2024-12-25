@@ -11,7 +11,7 @@ public class finalScore : MonoBehaviour
     {
         if (ScoreManager.Instance != null)
         {
-            finalScoreText.text = "score : " + ScoreManager.Instance.score;
+            finalScoreText.text = "score : " + ScoreManager.Instance.getScore();
         }
         else
         {

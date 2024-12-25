@@ -11,7 +11,7 @@ public class Shoot : MonoBehaviour
     [SerializeField] private float forceAmount = 1000f;
     [SerializeField] private Transform gunFirePos;
 
-    [SerializeField] private GameObject particlePrefab; // ÆÄÆ¼Å¬ ÇÁ¸®ÆÕ
+    [SerializeField] private GameObject particlePrefab; // ï¿½ï¿½Æ¼Å¬ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 
     // Start is called before the first frame update
     void Start()
@@ -90,6 +90,11 @@ public class Bullet : MonoBehaviour
             if(hitObjectRb == null){
                 Debug.LogError("No RigidBody on Target");
                 hitObjectRb = hitObject.AddComponent<Rigidbody>();
+                return;
+            }
+
+            if(potatoMovement == null){
+                Debug.LogError("No SimpleRunnerAI Script on Target");
                 return;
             }
 

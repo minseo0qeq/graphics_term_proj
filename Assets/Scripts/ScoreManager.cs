@@ -1,13 +1,11 @@
 using System.Collections;
 using System.Collections.Generic;
-using TMPro;
-using UnityEditor.Rendering;
 using UnityEngine;
-using UnityEngine.SceneManagement;
+
 
 public class ScoreManager : MonoBehaviour
 {
-    public int score = 0;
+    static private int score = 0;
     public static ScoreManager Instance { get; private set; }
 
     public delegate void UpdateScore(int newScore);
@@ -27,14 +25,21 @@ public class ScoreManager : MonoBehaviour
             Destroy(gameObject);
         }
 
-        score = 0;
+        //score = 0;
     }
 
+    void Start(){
+
+    }
 
     public void AddScore()
     {
         score++;
         OnScoreUpdate?.Invoke(score);
+    }
+
+    public int getScore(){
+        return score;
     }
 
 }
