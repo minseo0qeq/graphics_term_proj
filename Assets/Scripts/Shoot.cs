@@ -49,7 +49,7 @@ public class Bullet : MonoBehaviour
     private float forceAmount;
     private Vector3 direction;
 
-    // Set the speed of the bullet
+    
     public void SetSpeed(float bulletSpeed)
     {
         speed = bulletSpeed;
@@ -85,6 +85,8 @@ public class Bullet : MonoBehaviour
 
             hitObjectRb.useGravity = true;
             hitObjectRb.AddForce(direction * forceAmount);
+
+            ScoreManager.Instance.AddScore();
 
             Destroy(gameObject);
         }
