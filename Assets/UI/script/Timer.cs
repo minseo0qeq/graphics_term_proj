@@ -16,7 +16,7 @@ public class Timer : MonoBehaviour
     void Start()
     {
         timerText.text = "01 : 00";
-        time = 30;
+        time = 90;
         isTimeOver = false;
     }
 
@@ -35,7 +35,17 @@ public class Timer : MonoBehaviour
                 isTimeOver = true;
                 timerText.text = 0.ToString() + " : " + 0.ToString();
                 Debug.Log("time out");
-                SceneManager.LoadScene("End");
+                if (ScoreManager.Instance.score < 10)
+                {
+                    SceneManager.LoadScene("End1");
+                }else if(ScoreManager.Instance.score <= 20)
+                {
+                    SceneManager.LoadScene("End2");
+                }
+                else
+                {
+                    SceneManager.LoadScene("End3");
+                }
             }
 
         }

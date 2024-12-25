@@ -11,6 +11,8 @@ public class Shoot : MonoBehaviour
     [SerializeField] private float forceAmount = 1000f;
     [SerializeField] private Transform gunFirePos;
 
+    [SerializeField] private GameObject particlePrefab; // 파티클 프리팹
+
     // Start is called before the first frame update
     void Start()
     {
@@ -22,6 +24,7 @@ public class Shoot : MonoBehaviour
         if(Input.GetKeyDown(KeyCode.Space)){
             SpawnBullet();
             gameObject.GetComponent<AudioSource>().Play();
+            Instantiate(particlePrefab, gunFirePos.transform.position, Quaternion.identity);
         }
     }
 

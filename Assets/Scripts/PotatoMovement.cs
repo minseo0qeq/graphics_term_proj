@@ -11,10 +11,13 @@ public class SimpleRunnerAI : MonoBehaviour
     private float jumpTimer;
     private Rigidbody rb;
     private bool isHitByBullet = false;
+    private Renderer potatoColor;
 
     void Start()
     {
         rb = GetComponent<Rigidbody>();
+        potatoColor = gameObject.GetComponent<Renderer>();
+
         if (rb == null)
         {
             Debug.LogError("Rigidbody�� �� ������Ʈ�� �����ϴ�.");
@@ -31,6 +34,7 @@ public class SimpleRunnerAI : MonoBehaviour
         {
             rb.velocity = Vector3.zero; 
             rb.useGravity = true;
+            potatoColor.material.color = Color.gray;
             return;
         }
 
