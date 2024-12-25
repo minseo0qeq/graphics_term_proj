@@ -41,6 +41,9 @@ public class Shoot : MonoBehaviour
         sc.isTrigger = true;
         sc.radius = 0.2f;
 
+        Rigidbody rb = bullet.AddComponent<Rigidbody>();
+        rb.isKinematic = true;
+
         Destroy(bullet, 10f);
     }
 }
@@ -94,6 +97,5 @@ public class Bullet : MonoBehaviour
 
         Destroy(gameObject);
     }
-
 }
 
